@@ -1,0 +1,17 @@
+﻿.teste {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+    background-color: #F1F1F1;
+}
